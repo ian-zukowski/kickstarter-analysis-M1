@@ -9,3 +9,5 @@ Descriptive statistics are included for successful and failed U.S.-based Kicksta
 ![ian-zukowski](Outcomes_by_LaunchMonth_Line.png)
 ### Project Outcomes by Theatre Subcategories
 ![ian-zukowski](Parent_Category_Outcomes_Bar_Chart.png)
+### Project Outcomes for US Plays - Compared to Average Goal Amount ($7500)
+![ian-zukowski](Outcomes_US_Plays_by_Price_PieCharts.png)
