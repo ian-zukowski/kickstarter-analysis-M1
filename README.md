@@ -5,3 +5,4 @@ Data in the spreadsheet shows trends for success of Kickstarter campaigns, with 
 Outcomes were analyzed based on launch date, country of origin, goals+pledged money.
 Descriptive statistics are included for successful and failed U.S.-based Kickstarter campaigns.
 # Charts and Graphs
+![Outcomes Based on Launch Month](C:\Users\Ian\Desktop\CWRU Modules\Module 1\Louise_Theater_Project\Outcomes_by_LaunchMonth_Line.png)
